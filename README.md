@@ -1,0 +1,2 @@
+# nyuumonn_sizengengosyori_exercises
+O'reillyから出ている入門自然言語処理の学習記録
